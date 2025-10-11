@@ -5,7 +5,7 @@
 ```bash
 MODNAME="something"
 mkdir $MODNAME && cd $MODNAME
-go mod init desrosiers.org/$
+go mod init desrosiers.org/$MODNAME
 ```
 
 ## compile a file
